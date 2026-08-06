@@ -1,0 +1,14 @@
+C:\Users\B09S104est\Documents\MLT\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\bin\Debug\4.CondicionesSimplesDobles.exe.config
+C:\Users\B09S104est\Documents\MLT\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\bin\Debug\4.CondicionesSimplesDobles.exe
+C:\Users\B09S104est\Documents\MLT\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\bin\Debug\4.CondicionesSimplesDobles.pdb
+C:\Users\B09S104est\Documents\MLT\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MLT\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MLT\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.exe
+C:\Users\B09S104est\Documents\MLT\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\bin\Debug\4.CondicionesSimplesDobles.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\bin\Debug\4.CondicionesSimplesDobles.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\bin\Debug\4.CondicionesSimplesDobles.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\4.CondicionesSimplesDobles\4.CondicionesSimplesDobles\obj\Debug\4.CondicionesSimplesDobles.pdb
