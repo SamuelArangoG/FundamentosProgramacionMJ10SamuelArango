@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\7.TallerCondicionales\7.TallerCondicionales\bin\Debug\7.TallerCondicionales.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\7.TallerCondicionales\7.TallerCondicionales\bin\Debug\7.TallerCondicionales.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\7.TallerCondicionales\7.TallerCondicionales\bin\Debug\7.TallerCondicionales.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\7.TallerCondicionales\7.TallerCondicionales\obj\Debug\7.TallerCondicionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\7.TallerCondicionales\7.TallerCondicionales\obj\Debug\7.TallerCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\7.TallerCondicionales\7.TallerCondicionales\obj\Debug\7.TallerCondicionales.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\7.TallerCondicionales\7.TallerCondicionales\obj\Debug\7.TallerCondicionales.pdb
