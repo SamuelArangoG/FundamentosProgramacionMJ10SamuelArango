@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\12.CicloDoWhile2\12.CicloDoWhile2\bin\Debug\12.CicloDoWhile2.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\12.CicloDoWhile2\12.CicloDoWhile2\bin\Debug\12.CicloDoWhile2.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\12.CicloDoWhile2\12.CicloDoWhile2\bin\Debug\12.CicloDoWhile2.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\12.CicloDoWhile2\12.CicloDoWhile2\obj\Debug\12.CicloDoWhile2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\12.CicloDoWhile2\12.CicloDoWhile2\obj\Debug\12.CicloDoWhile2.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\12.CicloDoWhile2\12.CicloDoWhile2\obj\Debug\12.CicloDoWhile2.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\12.CicloDoWhile2\12.CicloDoWhile2\obj\Debug\12.CicloDoWhile2.pdb
