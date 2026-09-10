@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\Parcial2SamuelArango\Parcial2SamuelArango\bin\Debug\Parcial2SamuelArango.exe.config
+C:\Users\B09S104est\Downloads\Parcial2SamuelArango\Parcial2SamuelArango\bin\Debug\Parcial2SamuelArango.exe
+C:\Users\B09S104est\Downloads\Parcial2SamuelArango\Parcial2SamuelArango\bin\Debug\Parcial2SamuelArango.pdb
+C:\Users\B09S104est\Downloads\Parcial2SamuelArango\Parcial2SamuelArango\obj\Debug\Parcial2SamuelArango.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\Parcial2SamuelArango\Parcial2SamuelArango\obj\Debug\Parcial2SamuelArango.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\Parcial2SamuelArango\Parcial2SamuelArango\obj\Debug\Parcial2SamuelArango.exe
+C:\Users\B09S104est\Downloads\Parcial2SamuelArango\Parcial2SamuelArango\obj\Debug\Parcial2SamuelArango.pdb
