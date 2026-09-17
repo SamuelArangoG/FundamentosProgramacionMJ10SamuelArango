@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\15.TallerVectores\15.TallerVectores\bin\Debug\15.TallerVectores.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\15.TallerVectores\15.TallerVectores\bin\Debug\15.TallerVectores.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\15.TallerVectores\15.TallerVectores\bin\Debug\15.TallerVectores.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\15.TallerVectores\15.TallerVectores\obj\Debug\15.TallerVectores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\15.TallerVectores\15.TallerVectores\obj\Debug\15.TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\15.TallerVectores\15.TallerVectores\obj\Debug\15.TallerVectores.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\15.TallerVectores\15.TallerVectores\obj\Debug\15.TallerVectores.pdb
