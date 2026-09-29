@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\TallerArreglos\TallerArreglos\bin\Debug\TallerArreglos.exe.config
+C:\Users\B09S104est\Downloads\TallerArreglos\TallerArreglos\bin\Debug\TallerArreglos.exe
+C:\Users\B09S104est\Downloads\TallerArreglos\TallerArreglos\bin\Debug\TallerArreglos.pdb
+C:\Users\B09S104est\Downloads\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.exe
+C:\Users\B09S104est\Downloads\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.pdb
