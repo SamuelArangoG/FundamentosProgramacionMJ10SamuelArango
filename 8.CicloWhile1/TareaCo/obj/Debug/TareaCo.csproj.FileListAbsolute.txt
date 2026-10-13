@@ -1,0 +1,7 @@
+C:\Users\anihd\source\repos\TareaCicloWhile\TareaCo\bin\Debug\TareaCo.exe.config
+C:\Users\anihd\source\repos\TareaCicloWhile\TareaCo\bin\Debug\TareaCo.exe
+C:\Users\anihd\source\repos\TareaCicloWhile\TareaCo\bin\Debug\TareaCo.pdb
+C:\Users\anihd\source\repos\TareaCicloWhile\TareaCo\obj\Debug\TareaCo.csproj.AssemblyReference.cache
+C:\Users\anihd\source\repos\TareaCicloWhile\TareaCo\obj\Debug\TareaCo.csproj.CoreCompileInputs.cache
+C:\Users\anihd\source\repos\TareaCicloWhile\TareaCo\obj\Debug\TareaCo.exe
+C:\Users\anihd\source\repos\TareaCicloWhile\TareaCo\obj\Debug\TareaCo.pdb
